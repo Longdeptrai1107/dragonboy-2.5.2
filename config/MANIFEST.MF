@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-Name: DragonBoy252
+MIDlet-Version: 2.5.2
+MIDlet-Vendor: Longdeptrai1107
+MIDlet-1: DragonBoy252,,main.GameMidlet
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+
